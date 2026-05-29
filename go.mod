@@ -1,6 +1,6 @@
-module github.com/gptscript-ai/cmd
+module github.com/obot-platform/cmd
 
-go 1.21.0
+go 1.26.3
 
 require (
 	github.com/sirupsen/logrus v1.9.3
