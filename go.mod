@@ -1,4 +1,4 @@
-module github.com/obot-platform/cmd
+module github.com/boeing-ai-gateway/cmd
 
 go 1.26.3
 

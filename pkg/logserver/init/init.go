@@ -1,6 +1,6 @@
 package init
 
-import "github.com/obot-platform/cmd/pkg/logserver"
+import "github.com/boeing-ai-gateway/cmd/pkg/logserver"
 
 func init() {
 	go logserver.StartServerWithDefaults()
